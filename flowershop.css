@@ -1,0 +1,284 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+/* Header */
+
+header {
+    background-color: rgba(229, 84, 115, 0.10);
+    margin: 0;
+    display: flex;
+    padding: 50px 150px 0px 150px;
+    margin-bottom: 178px;
+}
+
+.heading-header {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    width: 708px;
+}
+
+.paragraph-header {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 634px;
+}
+
+.button-styling {
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    padding: 20px 43px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* Main section */
+
+/* First section */
+.first-section-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.first-section-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 48px;
+}
+
+.pinkflower {
+    display: flex;
+    gap: 24px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+.pinkflower img {
+    width: 314px;
+    height: 471px;
+}
+
+.pink {
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
+
+.blue {
+    background-color: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
+
+.green {
+    background-color: rgba(71, 125, 17, 0.15);
+    border-radius: 300px 300px 0px 0px;
+}
+
+.first-section-pink {
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+/* Third section */
+.third-section {
+    display: flex;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 128px;
+    gap: 150px;
+    padding: 100px;
+}
+
+.third-section-heading {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.third-section-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 0px;
+}
+
+.third-section-div {
+    text-align: center;
+    padding: 100px;
+}
+
+.third-section-image {
+    width: 318px;
+    height: 420px;
+    padding: 80px;
+}
+
+.coloring {
+    color: #E55473;
+}
+
+/* Fourth section */
+
+.fourth-section {
+    padding-top: 128px;
+}
+
+.fourth-section-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.fourth-section-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 0px;
+    margin-bottom: 48px;
+}
+
+.rectangle {
+    display: flex;
+    gap: 24px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.rectangle img {
+    width: 280px;
+    height: 320px;
+}
+
+/* Fifth section */
+.fifth-section {
+    background-image: url(Flower-Asset/Rectangle\ 9.png);
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 1100x;
+    height: 400px;
+}
+
+.fifth-section-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 80px;
+}
+
+.fifth-section-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+form {
+    padding-left: 220px;
+    padding-right: 220px;
+}
+
+form input {
+    width: 700px;
+    height: 70px;
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 400;
+    border: none;
+}
+
+/* Footer */
+
+footer {
+    height: 300px;
+    background-color: #111010;
+    margin-top: 120px;
+}
+
+.heading-footer {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 800;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+.paragraph-footer {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+small {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer-section-div{
+    text-align: center;
+}
+
+/* Extra section */
+
+.extrasection{
+    background-color: hotpink;
+    height: 650px;
+    margin-top: 120px;
+}
+
+.extra-heading{
+    color: #272727 ;
+    font-size: 80px;
+    font-weight: 800;
+    width: 708px;
+    /* padding-top: 80px; */
+    /* padding-left: 50px; */
+}
+
+.extra-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    /* padding-left: 50px; */
+    /* padding-top: 0; */
+}
+
+.flower{
+    color: rgb(255, 193, 204);
+}
+
+.extra-div{
+    display: flex;
+}
+
+.extra-div img{
+    padding: 25px;
+}
+
+.extra-div-add{
+    padding-left: 50px;
+    padding-right: 50px;
+}
